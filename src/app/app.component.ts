@@ -11,7 +11,7 @@ import { Component } from '@angular/core';
 
 export class AppComponent {
 
-  currentPage = 1 ;
+  currentPage = 0 ;
 
  images = [
     {
